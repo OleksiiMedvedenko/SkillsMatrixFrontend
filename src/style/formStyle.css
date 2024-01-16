@@ -1,0 +1,191 @@
+.audit-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  .main-header-cell {
+    font-family: Arial;
+    text-align: center;
+    font-size: 16px;
+    background-color: #FFFFFF;
+    font-weight: bold;
+    border-left: 1px solid;
+    border-bottom: 1px solid;
+    border-left-color: #000000;
+    border-bottom-color: #000000;
+    min-width: 50px;
+  }
+  .main-question-cell {
+    font-family: Arial;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    border-left: 1px solid;
+    border-top: 1px solid;
+    border-left-color: #000000;
+    border-top-color: #000000;
+    min-width: 50px;
+  }
+  .main-score-cell {
+    font-family: Arial;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    border: 1px solid;
+    border-left-color: #000000;
+    border-right-color: #000000;
+    border-top-color: #000000;
+    border-bottom-color: #000000;
+    min-width: 50px;
+  }
+  .main-score-header-cell {
+    font-family: Arial;
+    text-align: center;
+    font-size: 11px;
+    font-weight: bold;
+    border: 1px solid;
+    border-left-color: #000000;
+    border-right-color: #000000;
+    border-top-color: #000000;
+    border-bottom-color: #000000;
+    min-width: 50px;
+  }
+  .main-section-cell {
+    font-family: Arial;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    border-left: 2px solid;
+    border-right: 2px solid;
+    border-left-color: #000000;
+    border-right-color: #000000;
+    min-width: 50px;
+  }
+    .info-table-cell-style {
+        font-family: Arial;
+        text-align: center;
+        font-size: 10px;
+        border: 1px solid;
+        border-color: #000000;
+        min-width: 50px;
+    }
+    .info-table-cell-header-style {
+        font-family: Arial;
+        text-align: center;
+        font-size: 16px;
+        font-weight: bold;
+        border: 1px solid;
+        border-color: #000000;
+        min-width: 50px;
+    }
+    .info-table-cell-header-bold-style {
+        font-family: Arial;
+        text-align: center;
+        font-size: 14px;
+        background-color: #C0C0C0;
+        font-weight: bold;
+        border: 1px solid;
+        border-color: #000000;
+        min-width: 50px;
+    }
+    .info-table-cell-empty-style {
+        font-family: Arial;
+        text-align: center;
+        font-size: 16px;
+        font-weight: bold;
+        border: 1px solid;
+        border-color: #000000;
+        min-width: 50px;
+        background-color: #FFFFFF;
+    }
+    .info-table-cell-audit-status {
+        font-family: Arial;
+        text-align: center;
+        font-size: 24px;
+        font-weight: bold;
+        border: 1px solid;
+        border-color: #000000;
+        min-width: 50px;
+        background-color: #FFFFFF;
+    }
+    .info-table-cell-points-style {
+        font-family: Arial;
+        text-align: center;
+        font-size: 12px;
+        border: 1px solid;
+        border-color: #000000;
+        min-width: 50px;
+    }
+
+    .form-info-title-cell  {
+        font-size: 25px;
+        font-weight: bold;
+        border: 1px solid #000;
+        background-color: #fff;
+        min-width: 50px;
+            font-family: Arial;
+            text-align: center;
+    }
+
+    .form-info-image-cell {
+        font-size: 8px;
+        border: 1px solid #000;
+        background-color: #fff;
+        min-width: 50px;
+    }
+
+    .form-info-page-number-cell {
+        font-size: 14px;
+        font-weight: bold;
+        border: 1px solid #000;
+        background-color: #fff;
+        min-width: 20px;
+    }
+
+    .form-info-green-cell {
+        font-size: 13px;
+        font-weight: bold;
+        background-color: #00FF00;
+        color: #000;
+        border: 1px solid #000;
+        min-width: 25px;
+    }
+
+    .form-info-normal-cell {
+        font-size: 14px;
+        border: 1px solid #000;
+        min-width: 25px;
+    }
+    .point-scale-table td {
+        border: 1px solid #000000;
+        padding: 8px;
+        text-align: center;
+    }
+
+    .point-scale-table th {
+        background-color: #FFFFFF;
+        border: 1px solid #000000;
+        border-bottom: none;
+        padding: 8px;
+        text-align: center;
+    }
+
+
+
+    .accept-button {
+        background-color: #3498db;
+        border: none;
+        color: white;
+        height: 50px;
+        width: 180px;
+        padding: 10px 20px;
+        border-radius: 5px;
+        font-size: 16px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        margin-left: 30px;
+        margin-top: 20px;
+      }
+      
+      .accept-button:hover {
+        background-color: #2980b9;
+      }
